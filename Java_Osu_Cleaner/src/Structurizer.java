@@ -1,6 +1,7 @@
 
 public class Structurizer {
 
+	
 }
 /*
  * Class for folder restructure

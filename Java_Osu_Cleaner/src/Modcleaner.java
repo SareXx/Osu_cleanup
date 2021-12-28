@@ -1,6 +1,7 @@
 
 public class Modcleaner {
 
+	
 }
 /*
  * Class for cleaning up Osu mods
